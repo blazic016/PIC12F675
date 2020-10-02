@@ -1,6 +1,6 @@
 #Directories
-build/*
-debug/*
+*/build/*
+*/debug/*
 */nbproject/*
 
 #Files
