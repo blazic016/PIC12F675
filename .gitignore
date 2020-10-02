@@ -1,10 +1,7 @@
 #Directories
 build/*
 debug/*
-nbproject/*
-
-#Subdirectories
-#*/nbproject/*
+*/nbproject/*
 
 #Files
 *.rar
